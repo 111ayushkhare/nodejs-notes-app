@@ -1,0 +1,24 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "description": "A simple notes app made in node.js which provides functunality of adding, updating, removing, reading notes each having a title and a body",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node.js",
+    "JSON",
+    "JSON-parsing",
+    "JSON-stringify",
+    "argv",
+    "file-read-write"
+  ],
+  "author": "ayush khare",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "yargs": "^17.0.1"
+  }
+}
