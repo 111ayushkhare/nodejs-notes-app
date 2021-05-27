@@ -1,7 +1,7 @@
 {
   "name": "notes_app",
   "version": "1.0.0",
-  "description": "A simple notes app made in node.js which provides functunality of adding, updating, removing, reading notes each having a title and a body",
+  "description": "A simple notes app made in node.js which provides functionality of adding, updating, removing, reading notes each having a title and a body",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +20,14 @@
   "dependencies": {
     "chalk": "^4.1.1",
     "yargs": "^17.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/111ayushkhare/nodejs-notes-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/111ayushkhare/nodejs-notes-app/issues"
+  },
+  "homepage": "https://github.com/111ayushkhare/nodejs-notes-app#readme"
 }
